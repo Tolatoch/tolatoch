@@ -1,7 +1,4 @@
-![GIS](https://img.shields.io/badge/Gpatial-green
-![Remote Sensinglds.io/badge/Remote-Sensing-blue
-![Web GISmg.shields.io/badge/Web-GIS-orange
-![Java](httpshields.io/badge/Java-Programming-red
+
 # Hi, I'm Tola Toch 👋
 
 🎓 Information Technology Student
